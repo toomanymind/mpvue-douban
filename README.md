@@ -9,7 +9,7 @@
 
 ## 演示
 
-![mpvue-douban](mpvue-douban.gif)
+<!-- ![mpvue-douban](mpvue-douban.gif) -->
 
 ## 运行
 

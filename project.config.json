@@ -7,9 +7,9 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
-	"appid": "wxebcb658c980d16d1",
+	"appid": "wxf79d906eb72bcc14",
 	"projectname": "mpvue-douban",
 	"libVersion": "2.2.4",
 	"condition": {
